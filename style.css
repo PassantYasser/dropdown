@@ -20,7 +20,7 @@ html {
   box-sizing: inherit;
   }  
 
-/**/
+/*header#######################*/
 
 header{
   background-color: black;
@@ -105,7 +105,27 @@ header h1{
 } 
 
 
-/**/
+/*mobile#######################*/
 .show-in-mobile{
   display: none;
+}
+
+/*header#######################*/
+main p{
+  color: #1b1b1b;
+  height: calc(100vh - 140px);
+  font-size: 30px;
+  line-height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-weight: bold;
+}
+footer{
+  color: #fff;
+  background-color: black;
+  padding: 20px;
+  text-align: center;
+  font-size: 22px;
 }

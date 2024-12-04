@@ -32,7 +32,7 @@
 }
 /*************************######*******/
 .main-div{
-  border: 2px solid black;
+  border-bottom: 2px solid black;
 }
 .sub-div{
   display: none;
